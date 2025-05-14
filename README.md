@@ -38,6 +38,7 @@ The analysis results are summarized as follows:
 2.  Black and Male victims significantly outnumbers all other victims
 3.  Highest number of incidents involved victims aged 25-44, followed by 18-24
 4.  Shooting incidents are highest at night, between 9pm and 1am
+5.  Less than a quarter of the victims of the shooting incidents died
 
 ### Recommendation
 
